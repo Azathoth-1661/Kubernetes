@@ -71,3 +71,5 @@ Kubernetes 重新啟動失敗的容器、替換容器、殺死不響應用戶定
 Kubernetes 允許你存儲和管理敏感信息，例如密碼、OAuth 令牌和 ssh 密鑰。
 
 你可以在不重建容器鏡像的情況下部署和更新密鑰和應用程序配置，也無需在堆棧配置中暴露密鑰。
+
+https://devopscube.com/setup-prometheus-monitoring-on-kubernetes/
